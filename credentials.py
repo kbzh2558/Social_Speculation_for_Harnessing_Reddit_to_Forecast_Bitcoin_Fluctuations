@@ -1,8 +1,8 @@
-# authentication credentials
-client_id="J8J4aZLLAKCZI_1HV3uwpw"
-client_secret="T0zHItvSZ7QSCdYdbAAwnvVqTWHUKg"
-username="kb_2558"
-password="*20041126Kevin"
+# authentication credentials for Reddit
+client_id="add client id here"
+client_secret="and client secret here"
+username="add username  here"
+password="*add password here"
 
 # api key alphavantage
-key = "ZV5WNFGAQ4PZ8TMF"
+key = "add key here"
