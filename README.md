@@ -4,7 +4,10 @@
 ⚡ETL, Sentiment Analysis, Multi-Layer Perceptron Modelling, and Dropout Regularization⚡
 
 > [!NOTE]
-> This project investigates the role of Reddit sentiment as an indicator for predicting Bitcoin (BTC) price fluctuations. Recognizing the complex, sentiment-driven nature of cryptocurrency, we explore models that leverage sentiment analysis on Reddit comments to forecast BTC's closing price. Starting from a baseline regression, we refine our model by employing a multi-layer perceptron (MLP) with dropout regularization, achieving a solution that balances complexity and generalization. This README provides a structured overview of the project’s stages, data processing, and insights on the limitations and future directions for improving model performance.
+> This project was conducted by Kaibo Zhang, student from the Desautels Faculty of Management at McGill University. The study utilized publicly available data from the > Reddit and Alpha Vantage API and was supervised as part of the course INSY-336-001 DataHandl&Coding for Analytics. The API links dataset can be found here. (Reddit[https://developers.reddit.com/docs/api], Alpha Vantage[https://www.alphavantage.co/]).
+
+## Overview
+This project investigates the role of Reddit sentiment as an indicator for predicting Bitcoin (BTC) price fluctuations. Recognizing the complex, sentiment-driven nature of cryptocurrency, we explore models that leverage sentiment analysis on Reddit comments to forecast BTC's closing price. Starting from a baseline regression, we refine our model by employing a multi-layer perceptron (MLP) with dropout regularization, achieving a solution that balances complexity and generalization. This is 
 
 ## Repo Structure
 ```
